@@ -21,8 +21,8 @@ Com base nos tópicos abordados pela certificação AZ-900, aqui está um resumo
 - SaaS (Software como Serviço): Aplicativos prontos entregues pela internet.
 
 # CAPEX vs OPEX:
-CAPEX (Capital Expenditure): Investimentos iniciais em hardware e infraestrutura local.
-OPEX (Operational Expenditure): Custos operacionais regulares, como os pagos pelo uso de recursos na nuvem.
+- CAPEX (Capital Expenditure): Investimentos iniciais em hardware e infraestrutura local.
+- OPEX (Operational Expenditure): Custos operacionais regulares, como os pagos pelo uso de recursos na nuvem.
 
 # Regiões: 
 São localizações físicas ao redor do mundo onde os provedores de nuvem, como o Azure, mantêm seus datacenters. Por exemplo, no Brasil há uma região de Azure localizada em São Paulo. Elas permitem que você escolha onde seus dados e serviços serão hospedados, ajudando a otimizar a latência e atender a exigências de conformidade com regulamentações locais.
