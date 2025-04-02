@@ -16,9 +16,9 @@ Com base nos tópicos abordados pela certificação AZ-900, aqui está um resumo
 -Redução de custos: Menor investimento inicial e custos contínuos eficientes.
 
 # Tipos de serviços de nuvem:
-IaaS (Infraestrutura como Serviço): Acesso a recursos de computação como servidores, redes e armazenamento.
-PaaS (Plataforma como Serviço): Um ambiente para desenvolvimento e gerenciamento de aplicativos.
-SaaS (Software como Serviço): Aplicativos prontos entregues pela internet.
+- IaaS (Infraestrutura como Serviço): Acesso a recursos de computação como servidores, redes e armazenamento.
+- PaaS (Plataforma como Serviço): Um ambiente para desenvolvimento e gerenciamento de aplicativos.
+- SaaS (Software como Serviço): Aplicativos prontos entregues pela internet.
 
 # CAPEX vs OPEX:
 CAPEX (Capital Expenditure): Investimentos iniciais em hardware e infraestrutura local.
